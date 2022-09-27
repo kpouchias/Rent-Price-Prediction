@@ -1,5 +1,5 @@
 # Rent Price Prediction in Thessaloniki Greece
-In this project I tried to predict the rent price of an apartment located in Thessaloniki Greece, as well as the best model I can use for that purpose.
+In this project I tried to predict the rent price of an apartment located in Thessaloniki Greece, as well as determine which is the best model I can use for that purpose.
 
 ## Webscrape.
 I created a Python script in VS Code, to help me aqcuire the Data from a real estate page, and then I saved them as a csv file. The attributes Ι recorded for its house were the following:
@@ -13,6 +13,6 @@ I created a Python script in VS Code, to help me aqcuire the Data from a real es
 8. **Renting Price**
 
 ## Model
-After I saved the data to a csv file, I imported them to a jupyter notebook as a Dataframe, using the Pandas library. 
+After I saved the data to a csv file, I imported them into a jupyter notebook as a Dataframe, using the Pandas library. In the notebook  
 
 
